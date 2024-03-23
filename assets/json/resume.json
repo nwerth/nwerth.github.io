@@ -43,7 +43,7 @@
       "url": "https://example.com",
       "startDate": "2023",
       "endDate": "",
-      "summary": "Working in the research field <a href='https://www.sfuvet.swiss/research/field-32'>Institutional Conditions of Vocational Education and Training</a> with Irene Kriesi",
+      "summary": "Research Field <a href='https://www.sfuvet.swiss/research/field-32'>Institutional Conditions of Vocational Education and Training</a>",
       "highlights": []
     },
     {
@@ -52,8 +52,7 @@
       "url": "https://example.com",
       "startDate": "2023",
       "endDate": "",
-      "summary": "<a href='https://www.tree.unibe.ch/index_eng.html'>TREE Panel Study</a>",
-      "highlights": ["Principal investigator: Prof. Dr. Ben Jann"]
+      "summary": "<a href='https://www.tree.unibe.ch/index_eng.html'>TREE Panel Study</a>"
     },
     {
       "name": "Institute of Sociology, University of Bern",
@@ -61,8 +60,7 @@
       "url": "https://example.com",
       "startDate": "2018",
       "endDate": "2022",
-      "summary": "<a href='https://www.tree.unibe.ch/index_eng.html'>TREE Panel Study</a>",
-      "highlights": ["Principal investigator: Prof. Dr. Ben Jann"]
+      "summary": "<a href='https://www.tree.unibe.ch/index_eng.html'>TREE Panel Study</a>"
     }
   ],
   "projects": [
