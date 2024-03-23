@@ -2,24 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Sociologist. PhD Candidate.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profil_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Sociology with [Prof. Dr. Ben Jann](https://www.soz.unibe.ch/about_us/people/prof_dr_jann_ben/index_eng.html) at the [University of Bern](https://www.soz.unibe.ch/index_eng.html) and with [Prof. Dr. Irene Kriesi](https://www.sfuvet.swiss/person/kriesi-irene) at the [Swiss Federal University
+for Vocational Education and Training](https://www.sfuvet.swiss/). Currently, I am also working as a scientific collaborator in the [TREE panel study](https://www.tree.unibe.ch/index_eng.html) at the Institute of Sociology at the University of Bern. My academic journey began with earning both my Bachelor’s in Social Sciences and Master’s degrees in Sociology from the  University of Bern.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My current research is centered on examining gender inequalities within education and the transition from school to professional life. Utilizing a multifaceted approach, I analyze large-scale survey data, conduct survey experiments, and delve into textual data to explore these complex issues. In my dissertation, I delve into the intricate dynamics of gender stereotypes and their profound influence on perpetuating horizontal gender segregation in early-career decision-making processes. I aim to uncover the mechanisms through which these stereotypes impact individuals' choices and contribute to broader societal disparities.
