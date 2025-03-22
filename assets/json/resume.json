@@ -2,7 +2,6 @@
   "personal information": {
     "name": "Noël Werthmüller",
     "email": "noel.werthmueller@ehb.swiss",
-    "languages": "German (native), English (C1), French (B1), Swedish (A2)", 
     "location": {
       "address": "Kirchlindachstrasse 79",
       "postalCode": "3052",
@@ -47,10 +46,18 @@
     },
     {
       "name": "Institute of Sociology, University of Bern",
+      "position": "Research assistant",
+      "url": "https://example.com",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "Teaching undergradute and graduate students at the chair of Prof. Dr. Benita Combet"
+    },
+    {
+      "name": "Institute of Sociology, University of Bern",
       "position": "Scientific collaborator",
       "url": "https://example.com",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2024",
       "summary": "<a href='https://www.tree.unibe.ch/index_eng.html'>TREE Panel Study</a>"
     },
     {
@@ -64,7 +71,7 @@
   ],
   "projects": [
     {
-      "name": "How cultural Gender Belief Systems shape and reproduce Horizontal Gender Segregation in early Career-Decision Making",
+      "name": "Horizontal gender segregation in early career-decision making",
       "summary": "Dissertation project",
       "highlights": [],
       "startDate": "2023",
