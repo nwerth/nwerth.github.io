@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presentation of a paper on gendered hiring preferences at the <a href='https://rc28milan2025.com/'>"RC28 '25 Spring Meeting</a>.
+Presentation of a paper on gendered hiring preferences at the <a href='https://rc28milan2025.com/'>RC28 '25 Spring Meeting</a>.
